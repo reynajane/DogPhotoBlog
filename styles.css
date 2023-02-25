@@ -12,9 +12,13 @@ body {
 }
 
 .section1 {
-  background-image: url(https://live.staticflickr.com/8585/16564949360_0596671ab4_b.jpg);
+  background-image: url('https://images.pexels.com/photos/139312/pexels-photo-139312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
 }
 
 h1 {
   background-color: brown;
+}
+
+.section1 p {
+  color: white;
 }
