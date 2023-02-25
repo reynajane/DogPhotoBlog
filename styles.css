@@ -4,8 +4,6 @@
   box-sizing: border-box;
 }
 
-
-
 body {
   background-color: burlywood;
   text-align: center;
@@ -24,4 +22,12 @@ h1 {
 
 .section1 p {
   color: white;
+  font-weight: bold;
+}
+
+.dogHeader {
+  margin-top: 10px;
+  border-radius: 5%;
+  height: 300px;
+  width: 300px;
 }
