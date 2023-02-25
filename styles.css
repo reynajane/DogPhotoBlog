@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  background-color: burlywood;
+  text-align: center;
+}
+
+.section1 {
+  background-image: url(https://live.staticflickr.com/8585/16564949360_0596671ab4_b.jpg);
+}
+
+h1 {
+  background-color: brown;
+}
