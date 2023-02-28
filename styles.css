@@ -7,6 +7,7 @@
 body {
   background-color: burlywood;
   text-align: center;
+  font-family: sans-serif;
 }
 
 .section1 {
@@ -28,6 +29,24 @@ h1 {
 .dogHeader {
   margin-top: 10px;
   border-radius: 5%;
-  height: 300px;
-  width: 300px;
+  height: 600px;
+  width: 600px;
 }
+
+.header1 {
+  color: black;
+  text-shadow: 2px 2px 4px white;
+  font-size: larger;
+}
+
+h1::first-letter {
+  color: #fcfbfb;
+}
+
+.section1 h2 {
+  text-align: left;
+  margin-left: 10px;
+  padding-top: 10px;
+  text-shadow: 2px 2px 4px white;
+}
+
