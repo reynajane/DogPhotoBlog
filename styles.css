@@ -50,3 +50,6 @@ h1::first-letter {
   text-shadow: 2px 2px 4px white;
 }
 
+@media only screen and (max-width: 600px) {
+  
+}
